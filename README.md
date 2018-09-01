@@ -70,3 +70,5 @@ In order to be charged the correct amount
 As a space pilot
 I need to have the correct fare calculated
 ```
+
+## Diagram of Correlation
